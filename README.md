@@ -36,5 +36,5 @@ git clone https://github.com/your-username/snake-eats-apple.git
 Open the index.html file in your preferred web browser.
 
 ## Credits
-Developed by [kandadi manasa]
+Developed by kandadi manasa
 Inspired by the classic Snake game
